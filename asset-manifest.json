@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speak-and-tune/static/css/main.e6c13ad2.css",
+    "main.js": "/speak-and-tune/static/js/main.027a3efe.js",
+    "static/js/453.685c86c5.chunk.js": "/speak-and-tune/static/js/453.685c86c5.chunk.js",
+    "index.html": "/speak-and-tune/index.html",
+    "main.e6c13ad2.css.map": "/speak-and-tune/static/css/main.e6c13ad2.css.map",
+    "main.027a3efe.js.map": "/speak-and-tune/static/js/main.027a3efe.js.map",
+    "453.685c86c5.chunk.js.map": "/speak-and-tune/static/js/453.685c86c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.027a3efe.js"
+  ]
+}
